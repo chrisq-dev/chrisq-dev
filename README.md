@@ -52,7 +52,7 @@ Especialidad real — no solo interés. Busco vulnerabilidades antes de que lleg
 
 ---
 
-## 🛠️ Arsenal Técnico
+## 🛠️ Con qué trabajo
 
 <div align="center">
 
@@ -102,12 +102,9 @@ Especialidad real — no solo interés. Busco vulnerabilidades antes de que lleg
 **Apeiron** es una empresa de desarrollo de software fundada por tres ingenieros en Informática del ITD.  
 Construimos sistemas a medida para negocios que quieren crecer con tecnología de verdad. Sin plantillas. Sin código genérico. Todo desde cero.
 
-| | |
-|---|---|
-| 👥 **Equipo** | 3 Co-fundadores |
-| 🎯 **Enfoque** | Software empresarial a medida |
-| 🔑 **Filosofía** | Entender el negocio antes de escribir código |
-| 🔗 **GitHub** | [github.com/apeiron-io](https://github.com/apeiron-io) |
+Tres ingenieros del ITD que ya tienen proyectos reales entregados en Durango. Construimos desde cero — un sistema POS para restaurante, un sistema de inventario y trazabilidad para productora de carne seca, y seguimos.
+
+🔗 [github.com/apeiron-io](https://github.com/apeiron-io)
 
 ---
 
@@ -124,10 +121,6 @@ Construimos sistemas a medida para negocios que quieren crecer con tecnología d
 ---
 
 <div align="center">
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=chrisq-dev&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=CCCCCC&hide=stars)
-
-<br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=11&pause=99999&color=004D14&center=true&vCenter=true&width=400&lines=resiliencia." alt="footer" />
 
