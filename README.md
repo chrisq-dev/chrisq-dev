@@ -1,59 +1,139 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=13&pause=2000&color=00FF41&center=true&vCenter=true&width=600&lines=Construye+cosas+reales.+Piensa+diferente." alt="tagline" />
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=13&pause=2000&color=00FF41&center=true&vCenter=true&width=600&lines=%E2%95%94%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%97;%E2%95%91+Entiendo+tu+negocio.+Despu%C3%A9s+escribo+el+c%C3%B3digo.+%E2%95%91;%E2%95%9A%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%9D" alt="quote" />
 
 <br/>
 
-# Christian Quiñones
+# 👾 Christian Quiñones
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=15&pause=1500&color=00CC33&center=true&vCenter=true&width=700&lines=Backend+Developer;Automatizaciones;Ciberseguridad;Co-Fundador+%40+Apeiron;Ingeniero+en+Inform%C3%A1tica" alt="roles" />
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=16&pause=1200&color=00BFFF&center=true&vCenter=true&width=700&lines=Backend+Developer+%F0%9F%96%A5%EF%B8%8F;Automatizaciones+%26+Integraciones+%E2%9A%A1;Ciberseguridad+%F0%9F%94%90;Ingeniero+en+Inform%C3%A1tica+%F0%9F%8E%93;Co-Fundador+%40+Apeiron+%F0%9F%9A%80" alt="roles" />
 
 <br/>
 
-🇲🇽 Durango, México
+🇲🇽 Durango, México &nbsp;·&nbsp; 🔐 Especialidad en Ciberseguridad &nbsp;·&nbsp; ⚡ Automatizaciones &nbsp;·&nbsp; 🚀 Co-Fundador @ **Apeiron**
 
 </div>
 
 ---
 
-Empecé a programar y nunca paré.
+## 🧠 whoami
 
-No me interesa el código por el código. Me interesa lo que resuelve — el negocio detrás, el problema real, la persona que lo va a usar todos los días.
+```bash
+$ cat sobre_mi.txt
+```
 
-Hoy estoy construyendo **Apeiron** con mis dos mejores amigos. Entregamos software a medida para negocios que merecen mejor tecnología.
+```
+Nombre     : Christian Quiñones
+Rol        : Backend Dev — Automatizaciones — Ciberseguridad
+Empresa    : Apeiron — Software a medida (Co-Fundador)
+Carrera    : Ingeniería en Informática — Especialidad Ciberseguridad — ITD
+Ubicación  : Durango, México 🇲🇽
+Modo       : Construyendo mientras aprendo. Siempre de noche.
+```
+
+> No escribo código antes de entender el negocio.  
+> Me siento con el cliente, escucho, y **después** propongo una solución.  
+> El código que no escala, no entiende el negocio o no resiste — no sirve.
 
 ---
 
-## Lo que construyo
+## ⚔️ Áreas de Especialidad
 
-| | Proyecto | |
+### ⚡ Automatizaciones e Integraciones
+
+Elimino procesos manuales. Conecto sistemas. Hago que las cosas pasen solas.
+
+- **Automatizaciones** — flujos con Python, n8n y APIs REST para reducir trabajo repetitivo
+- **Integraciones** — WhatsApp, plataformas externas y sistemas internos conectados entre sí
+- **Escritorio** — aplicaciones locales con Electron para negocios que no dependen de internet
+
+### 🔐 Ciberseguridad
+
+Especialidad real — no solo interés. Busco vulnerabilidades antes de que lleguen a producción.
+
+- **Análisis web** — Burp Suite, OWASP ZAP, Gobuster, SQLmap
+- **Reconocimiento** — Nmap, enumeración de servicios y superficies de ataque
+- **Mentalidad ofensiva** aplicada al desarrollo: si lo puedo atacar, lo puedo proteger
+
+---
+
+## 🛠️ Arsenal Técnico
+
+<div align="center">
+
+**⚙️ Backend**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+**🖥️ Frontend & Escritorio**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
+
+**🔐 Seguridad**
+
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+![OWASP](https://img.shields.io/badge/OWASP_ZAP-000000?style=for-the-badge&logo=owasp&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-004B87?style=for-the-badge&logo=nmap&logoColor=white)
+
+**⚡ Automatizaciones**
+
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+</div>
+
+---
+
+## 🚀 Proyectos
+
+| Proyecto | Descripción | Estado |
 |---|---|---|
-| 🍔 | **12 Burger POS** — Sistema de punto de venta para restaurante | `Entregado` |
-| 🥩 | **Gran Ternera** — Inventario, trazabilidad y distribución | `En desarrollo` |
+| 🍔 **12 Burger POS** | Sistema de punto de venta para restaurante. Comandas en tiempo real, KDS y dashboard de estadísticas. Durango, México | `Entregado` |
+| 🥩 **Gran Ternera** | Inventario, trazabilidad por lotes, distribución a 15+ puntos de venta, alertas de caducidad y reportes | `En desarrollo` |
 
 ---
 
-## Con qué trabajo
+## 🏢 Apeiron
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=13&pause=1800&color=00CC33&center=false&vCenter=true&width=600&lines=Python+·+Node.js+·+Express+·+SQLite;JavaScript+·+HTML+·+CSS+·+Electron;Kali+Linux+·+Ciberseguridad;Lo+que+el+problema+necesite." alt="stack" />
+> *Del griego ἄπειρον — lo ilimitado, lo indefinido.*
+
+**Apeiron** es una empresa de desarrollo de software fundada por tres ingenieros en Informática del ITD.  
+Construimos sistemas a medida para negocios que quieren crecer con tecnología de verdad. Sin plantillas. Sin código genérico. Todo desde cero.
+
+| | |
+|---|---|
+| 👥 **Equipo** | 3 Co-fundadores |
+| 🎯 **Enfoque** | Software empresarial a medida |
+| 🔑 **Filosofía** | Entender el negocio antes de escribir código |
+| 🔗 **GitHub** | [github.com/apeiron-io](https://github.com/apeiron-io) |
 
 ---
 
-## Apeiron
+## 📡 Contacto
 
-> *ἄπειρον — lo ilimitado, lo indefinido.*
+<div align="center">
 
-Software a medida para negocios reales. Sin plantillas. Sin soluciones genéricas.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/christian-qui%C3%B1ones-0345853b5)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chris.quinones.it@gmail.com)
+[![Apeiron](https://img.shields.io/badge/Apeiron-0D1117?style=for-the-badge&logo=github&logoColor=00FF41)](https://github.com/apeiron-io)
 
-🔗 [github.com/apeiron-io](https://github.com/apeiron-io)
+</div>
 
 ---
 
 <div align="center">
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=chrisq-dev&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=00882A&hide=stars)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=chrisq-dev&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=CCCCCC&hide=stars)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=flat-square&logo=linkedin&logoColor=00FF41)](https://linkedin.com/in/christian-qui%C3%B1ones-0345853b5)
-[![Gmail](https://img.shields.io/badge/Gmail-0D1117?style=flat-square&logo=gmail&logoColor=00FF41)](mailto:chris.quinones.it@gmail.com)
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=11&pause=99999&color=004D14&center=true&vCenter=true&width=400&lines=resiliencia." alt="footer" />
 
 </div>
