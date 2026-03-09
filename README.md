@@ -18,7 +18,7 @@
 
 ## 🧠 Sobre mí
 
-Ingeniero en Informática — Especialidad en Ciberseguridad — ITD Durango.
+Ingeniero en Informática — Especialidad en Ciberseguridad — Instituto Tecnológico de Durango.
 
 Empecé a programar desde el primer semestre y nunca paré.
 No me interesa el código por el código — me interesa el problema que resuelve.
@@ -39,17 +39,17 @@ El código que no escala, no entiende el negocio o no resiste — no sirve.
 
 Elimino procesos manuales. Conecto sistemas. Hago que las cosas pasen solas.
 
-- Flujos con **Python** y **n8n**
-- Integraciones con WhatsApp, APIs REST y plataformas externas
-- Apps de escritorio con **Electron** para negocios sin dependencia de internet
+- **Python · n8n** para flujos automatizados
+- **WhatsApp · APIs REST** para integraciones externas
+- **Electron** para apps de escritorio sin dependencia de internet
 
 ### 🔐 Ciberseguridad
 
-Especialidad real — no solo interés.
+Especialidad real — no solo interés. Si lo puedo atacar, lo puedo proteger.
 
-- Análisis web con **Burp Suite**, **OWASP ZAP**, **Gobuster**, **SQLmap**
-- Reconocimiento y enumeración con **Nmap**
-- Mentalidad ofensiva aplicada al desarrollo — si lo puedo atacar, lo puedo proteger
+- **Burp Suite · OWASP ZAP · SQLmap · Gobuster** para análisis web
+- **Nmap · John the Ripper** para reconocimiento y análisis
+- **Kali Linux** como entorno principal
 
 -----
 
@@ -57,20 +57,20 @@ Especialidad real — no solo interés.
 
 <div align="center">
 
-**⚙️ Backend**
+### ⚙️ Backend
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
-**🗄️ Bases de datos**
+### 🗄️ Bases de datos
 
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-**🖥️ Frontend & Escritorio**
+### 🖥️ Frontend & Escritorio
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -78,7 +78,7 @@ Especialidad real — no solo interés.
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
 
-**🔐 Seguridad**
+### 🔐 Seguridad
 
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
@@ -86,12 +86,12 @@ Especialidad real — no solo interés.
 ![Nmap](https://img.shields.io/badge/Nmap-004B87?style=for-the-badge&logo=nmap&logoColor=white)
 ![John the Ripper](https://img.shields.io/badge/John_the_Ripper-CC0000?style=for-the-badge&logo=linux&logoColor=white)
 
-**⚡ Automatizaciones**
+### ⚡ Automatizaciones
 
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
-**🛠️ Herramientas**
+### 🛠️ Herramientas
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -104,10 +104,19 @@ Especialidad real — no solo interés.
 
 ## 🚀 Proyectos
 
-|Proyecto           |Descripción                                                                                                        |Estado         |
-|-------------------|-------------------------------------------------------------------------------------------------------------------|---------------|
-|🍔 **12 Burger POS**|Sistema de punto de venta para restaurante. Comandas en tiempo real, monitor de cocina y dashboard. Durango, México|`Entregado`    |
-|🥩 **Gran Ternera** |Inventario, trazabilidad por lotes, distribución a 15+ puntos de venta y reportes                                  |`En desarrollo`|
+🍔 **12 Burger POS**  ·  `Entregado`
+
+> Sistema de punto de venta para restaurante en Durango, México.
+> Comandas en tiempo real, monitor de cocina y dashboard de estadísticas.
+> Stack: Node.js · Electron · SQLite
+
+-----
+
+🥩 **Gran Ternera — Carne Seca**  ·  `En desarrollo`
+
+> Sistema de gestión integral para productora artesanal.
+> Inventario, trazabilidad por lotes, distribución a 15+ puntos de venta, cobranza y reportes.
+> Stack: Node.js · React · Electron · SQLite
 
 -----
 
