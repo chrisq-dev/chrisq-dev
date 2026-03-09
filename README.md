@@ -16,24 +16,19 @@
 
 ---
 
-## 🧠 whoami
+## 🧠 Sobre mí
 
-```bash
-$ cat sobre_mi.txt
-```
+Soy ingeniero en Informática con especialidad en ciberseguridad, egresado del ITD.
+Empecé a programar desde el primer semestre y nunca paré — tutoriales, escuela, proyectos reales, prueba y error.
 
-```
-Nombre     : Christian Quiñones
-Rol        : Backend Dev — Automatizaciones — Ciberseguridad
-Empresa    : Apeiron — Software a medida (Co-Fundador)
-Carrera    : Ingeniería en Informática — Especialidad Ciberseguridad — ITD
-Ubicación  : Durango, México 🇲🇽
-Modo       : Construyendo mientras aprendo. Siempre de noche.
-```
+Hoy construyo **Apeiron** junto a mis dos mejores amigos: una empresa de software a medida para negocios que merecen mejor tecnología.
 
-> No escribo código antes de entender el negocio.  
-> Me siento con el cliente, escucho, y **después** propongo una solución.  
-> El código que no escala, no entiende el negocio o no resiste — no sirve.
+Lo que me diferencia no es solo el stack. Es que me siento con el cliente, entiendo cómo opera su negocio, y **después** propongo una solución. El código que no escala, no entiende el negocio o no resiste — no sirve.
+
+&nbsp;
+
+| 🎓 Ingeniería en Informática | 📍 Durango, México | 🌙 Siempre de noche |
+|:---:|:---:|:---:|
 
 ---
 
