@@ -1,58 +1,49 @@
-<div align="center">
-
-# Hola, soy Christian Quiñones 👋
-
-**Dev · Builder · Automatizador**
-
-*Creo que todo proceso repetitivo merece ser automatizado.*
-*Y todo negocio merece buena tecnología.*
-
-</div>
+![header](./header.svg)
 
 ---
 
 ### 🧠 Sobre mí
 
 Empecé a programar en el primer semestre de la carrera y nunca paré.
-Aprendí de todo un poco — tutoriales, escuela, prueba y error, proyectos reales.
 
-Hoy estoy terminando mi residencia en **Ingeniería Informática** y construyendo
-**Apeiron.io** junto a mis dos mejores amigos: una empresa de software a medida
-para negocios que quieren crecer con tecnología de verdad.
+Estoy terminando mi residencia en **Ingeniería Informática** con especialidad en ciberseguridad, y construyendo **Apeiron** junto a mis dos mejores amigos — una empresa de software a medida para negocios que quieren crecer con tecnología de verdad.
 
-No espero tener todo listo para empezar. Construyo mientras aprendo.
+Lo que me diferencia no es solo saber programar. Es sentarme con el cliente, entender cómo opera su negocio, y ayudarle a definir qué necesita antes de proponer una solución.
 
 ---
 
-### 🚀 Apeiron.io
+### 🛠️ Stack
 
-> *Del griego ἄπειρον — lo ilimitado, lo indefinido.*
-
-Desarrollamos sistemas, automatizaciones y herramientas digitales
-para empresas que quieren dar el siguiente paso.
-
-**Primer proyecto entregado:** 🍔 Sistema POS para 12 Burger — Durango, México.
+![stack](./stack.svg)
 
 ---
 
-### 🛠️ Herramientas
+### 🚀 Proyectos
 
-Uso las herramientas que el problema necesite.
+| Proyecto | Descripción | Estado |
+|---|---|---|
+| 🍔 **12 Burger POS** | Sistema de punto de venta para restaurante. Durango, México | `Entregado` |
+| 🥩 **Carne Seca Gran Ternera** | Inventario, trazabilidad por lotes y distribución a 15+ puntos de venta | `En desarrollo` |
+
+---
+
+### ⚡ Apeiron
+
+![banner](./banner.svg)
+
+> Sistemas a medida · Automatizaciones · Mobile · Ciberseguridad
 
 ---
 
 ### 📍 Durango, México
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Christian_Quiñones-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/christian-quiñones-0345853b5)
-[![Email](https://img.shields.io/badge/Email-chris.quinones.it@gmail.com-EA4335?style=flat-square&logo=gmail)](mailto:chris.quinones.it@gmail.com)
-[![Apeiron](https://img.shields.io/badge/Empresa-Apeiron.io-00D9FF?style=flat-square)](https://apeiron.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Christian_Quiñones-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/christian-quiñones-0345853b5)
+[![Email](https://img.shields.io/badge/Email-chris.quinones.it@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:chris.quinones.it@gmail.com)
 
 ---
 
 <div align="center">
 
-*"No sé todo, pero aprendo rápido y construyo en serio."*
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=chrisq-dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&hide=stars)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=chrisq-dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=00882A&hide=stars)
 
 </div>
