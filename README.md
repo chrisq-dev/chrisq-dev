@@ -10,11 +10,11 @@
 
 <br/>
 
-🇲🇽 Durango, México  ·  🚀 Co-Fundador @ **Apeiron**
+🇲🇽 Durango, México  ·  🚀 Co-Fundador @ **Apeiron**
 
 </div>
 
------
+---
 
 ## 🧠 Sobre mí
 
@@ -26,12 +26,12 @@ No me interesa el código por el código — me interesa el problema que resuelv
 Me siento con el cliente, entiendo su operación, y **después** propongo una solución.
 El código que no escala, no entiende el negocio o no resiste — no sirve.
 
- 
+**Software mío está corriendo en negocios reales en Durango, México.**
 
-|🌙 Trabajo de noche|🔁 Aprendo lo que necesito|🏗️ Construyo mientras avanzo|
-|:----------------:|:-----------------------:|:-------------------------:|
+| 🌙 Trabajo de noche | 🔁 Aprendo lo que necesito | 🏗️ Construyo mientras avanzo |
+|:---:|:---:|:---:|
 
------
+---
 
 ## ⚔️ Especialidades
 
@@ -51,7 +51,7 @@ Especialidad real — no solo interés. Si lo puedo atacar, lo puedo proteger.
 - **Nmap · John the Ripper** para reconocimiento y análisis
 - **Kali Linux** como entorno principal
 
------
+---
 
 ## 🛠️ Con qué trabajo
 
@@ -100,25 +100,36 @@ Especialidad real — no solo interés. Si lo puedo atacar, lo puedo proteger.
 
 </div>
 
------
+---
 
 ## 🚀 Proyectos
 
-🍔 **12 Burger POS**  ·  `Entregado`
+🍔 **12 Burger POS**  ·  `Entregado · En producción`
 
 > Sistema de punto de venta para restaurante en Durango, México.
 > Comandas en tiempo real, monitor de cocina y dashboard de estadísticas.
-> Stack: Node.js · Electron · SQLite
+> Soporte dual monitor — caja y cocina en pantallas independientes.
+> Stack: Node.js · Electron · React · SQLite
 
------
+---
 
-🥩 **Gran Ternera — Carne Seca**  ·  `En desarrollo`
+🤖 **WhatsApp Business Bot**  ·  `En producción`
+
+> Agente de pedidos por WhatsApp para negocios locales.
+> Recibe pedidos en lenguaje natural, los registra automáticamente en el POS
+> y notifica al cliente cuando su pedido está listo — sin que nadie toque el teléfono.
+> Stack: Python · FastAPI · WhatsApp Cloud API · Electron
+> 🔗 [github.com/chrisq-dev/whatsapp-business-bot](https://github.com/chrisq-dev/whatsapp-business-bot)
+
+---
+
+🥩 **Gran Ternera — Carne Seca**  ·  `En desarrollo`
 
 > Sistema de gestión integral para productora artesanal.
 > Inventario, trazabilidad por lotes, distribución a 15+ puntos de venta, cobranza y reportes.
 > Stack: Node.js · React · Electron · SQLite
 
------
+---
 
 ## 🏢 Apeiron
 
@@ -129,7 +140,7 @@ Sin plantillas. Sin código genérico. Todo desde cero.
 
 🔗 [github.com/apeiron-io](https://github.com/apeiron-io)
 
------
+---
 
 ## 📡 Contacto
 
@@ -141,7 +152,7 @@ Sin plantillas. Sin código genérico. Todo desde cero.
 
 </div>
 
------
+---
 
 <div align="center">
 
