@@ -1,5 +1,7 @@
 <div align="center">
 
+![Visitors](https://komarev.com/ghpvc/?username=chrisq-dev&color=00FF41&style=flat-square&label=visitas+al+perfil)
+
 <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=13&pause=2000&color=00FF41&center=true&vCenter=true&width=500&lines=%22Entiendo+el+negocio.+Despu%C3%A9s+escribo+c%C3%B3digo.%22" alt="quote" />
 
 <br/>
@@ -32,6 +34,46 @@ El código que no escala, no entiende el negocio o no resiste — no sirve.
 
 | 🌙 Trabajo de noche | 🔁 Aprendo lo que necesito | 🏗️ Construyo mientras avanzo |
 |:---:|:---:|:---:|
+
+---
+
+## 📊 Lo que he construido en números
+
+| Métrica | Valor |
+|:--------|------:|
+| 🏢 Negocios con software mío en producción | **2+** |
+| 🧪 Tests automatizados (SmartSalon AI) | **122** |
+| 🖥️ Sistemas con soporte dual monitor | **1** |
+| 🤖 Integraciones activas (WhatsApp, Calendar, MercadoPago) | **3** |
+| ☕ Café consumido construyendo esto | **∞** |
+
+---
+
+## 🧭 Cómo trabajo
+
+```
+1. Me siento con el cliente        →   Entiendo la operación real
+2. Identifico el cuello de botella →   No el síntoma, el problema
+3. Propongo arquitectura           →   Simple, escalable, mantenible
+4. Construyo e itero               →   Feedback real, no suposiciones
+5. Entrego y doy seguimiento       →   El software no termina en el deploy
+```
+
+> No vendo tecnología. Vendo soluciones que funcionan en negocios reales.
+
+---
+
+## 📚 Actualmente aprendiendo
+
+<div align="center">
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+</div>
+
+> Escalando de proyectos locales a infraestructura en la nube.
 
 ---
 
