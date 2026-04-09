@@ -1,7 +1,5 @@
 <div align="center">
 
-![Visitors](https://komarev.com/ghpvc/?username=chrisq-dev&color=00FF41&style=flat-square&label=visitas+al+perfil)
-
 <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=13&pause=2000&color=00FF41&center=true&vCenter=true&width=500&lines=%22Entiendo+el+negocio.+Despu%C3%A9s+escribo+c%C3%B3digo.%22" alt="quote" />
 
 <br/>
@@ -12,7 +10,9 @@
 
 <br/>
 
-🇲🇽 Durango, México  ·  🚀 Co-Fundador @ **Apeiron**
+🇲🇽 Durango, México · 🚀 Co-Fundador @ **Apeiron** — software a medida para negocios reales
+
+**Disponible para proyectos freelance y colaboraciones en Durango y remoto.**
 
 </div>
 
@@ -25,10 +25,10 @@ Ingeniero en Informática — Especialidad en Ciberseguridad — Instituto Tecno
 Empecé a programar desde el primer semestre y nunca paré.
 No me interesa el código por el código — me interesa el problema que resuelve.
 
+**Software mío está corriendo en negocios reales en Durango, México.**
+
 Me siento con el cliente, entiendo su operación, y **después** propongo una solución.
 El código que no escala, no entiende el negocio o no resiste — no sirve.
-
-**Software mío está corriendo en negocios reales en Durango, México.**
 
 🔨 Actualmente construyendo: **SmartSalon AI**
 
@@ -74,17 +74,6 @@ El código que no escala, no entiende el negocio o no resiste — no sirve.
 </div>
 
 > Escalando de proyectos locales a infraestructura en la nube.
-
----
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chrisq-dev&show_icons=true&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chrisq-dev&layout=compact&theme=chartreuse-dark&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=chrisq-dev&theme=chartreuse-dark&hide_border=true)
-
-</div>
 
 ---
 
@@ -166,23 +155,24 @@ Especialidad real — no solo interés. Si lo puedo atacar, lo puedo proteger.
 
 ## 🚀 Proyectos
 
-🍔 **12 Burger POS**  ·  `Entregado · En producción`
+🍔 **12 Burger POS** · `Entregado · Marzo 2025`
 
 > Sistema de punto de venta para restaurante en Durango, México.
+> Eliminó el uso de papel y calculadora en la operación completa del restaurante.
 > Comandas en tiempo real, monitor de cocina y dashboard de estadísticas.
 > Soporte dual monitor — caja y cocina en pantallas independientes.
 > Stack: Node.js · Electron · React · SQLite
 
 ---
 
-💜 **SmartSalon AI**  ·  `En desarrollo`
+💜 **SmartSalon AI** · `En desarrollo · 2025`
 
 > Plataforma de automatización para salones de belleza vía WhatsApp.
 > Bot con IA que agenda citas, confirma reservas y envía recordatorios — funciona 24/7.
 > Integración con Google Calendar, pagos con Mercado Pago y dashboard para administración.
 > 122 tests automatizados · Seguridad empresarial · Sistema de suscripciones.
 > Stack: Python · FastAPI · React · MySQL · Redis · Gemini AI · Docker
-> 🔗 [github.com/chrisq-dev/SmartSalon](https://github.com/chrisq-dev/SmartSalon)
+> 🔒 Repositorio privado · disponible bajo solicitud
 
 ---
 
