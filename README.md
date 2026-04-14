@@ -63,20 +63,6 @@ El código que no escala, no entiende el negocio o no resiste — no sirve.
 
 ---
 
-## 📚 Actualmente aprendiendo
-
-<div align="center">
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-
-</div>
-
-> Escalando de proyectos locales a infraestructura en la nube.
-
----
-
 ## ⚔️ Especialidades
 
 ### ⚡ Automatizaciones e Integraciones
