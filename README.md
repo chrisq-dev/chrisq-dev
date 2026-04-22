@@ -10,9 +10,7 @@
 
 <br/>
 
-🇲🇽 Durango, México · 🚀 Co-Fundador @ **Apeiron** — software a medida para negocios reales
-
-**Disponible para proyectos freelance y colaboraciones en Durango y remoto.**
+🇲🇽 Durango, México · 🚀 Co-Fundador @ **Apeiron** — software y automatizaciones a medida para negocios reales 
 
 </div>
 
@@ -89,14 +87,6 @@ Especialidad real — no solo interés. Si lo puedo atacar, lo puedo proteger.
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-### 🖥️ Frontend & Escritorio
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
-
 ### 🔐 Seguridad
 
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
@@ -109,12 +99,6 @@ Especialidad real — no solo interés. Si lo puedo atacar, lo puedo proteger.
 
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-
-### ☁️ Infraestructura & IA
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Gemini_AI-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Google Calendar](https://img.shields.io/badge/Google_Calendar_API-4285F4?style=for-the-badge&logo=googlecalendar&logoColor=white)
 
 ### 🛠️ Herramientas
 
