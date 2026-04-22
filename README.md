@@ -37,18 +37,6 @@ El código que no escala, no entiende el negocio o no resiste — no sirve.
 
 ---
 
-## 📊 Lo que he construido en números
-
-| Métrica | Valor |
-|:--------|------:|
-| 🏢 Negocios con software mío en producción | **2+** |
-| 🧪 Tests automatizados (SmartSalon AI) | **122** |
-| 🖥️ Sistemas con soporte dual monitor | **1** |
-| 🤖 Integraciones activas (WhatsApp, Calendar, MercadoPago) | **3** |
-| ☕ Café consumido construyendo esto | **∞** |
-
----
-
 ## 🧭 Cómo trabajo
 
 ```
@@ -168,10 +156,6 @@ Especialidad real — no solo interés. Si lo puedo atacar, lo puedo proteger.
 
 Tres ingenieros del ITD construyendo software a medida para negocios reales en Durango.
 Sin plantillas. Sin código genérico. Todo desde cero.
-
-- 🍔 POS en producción para restaurante local
-- 💜 SaaS de automatización para salones de belleza en desarrollo
-- 🔧 Proyectos de automatización e integración para negocios locales
 
 🔗 [github.com/apeiron-io](https://github.com/apeiron-io)
 
